@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Математика/Линейная алгебра\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15899655
+      }
+    },
+    {
+      "query": "path:Философия  ",
+      "color": {
+        "a": 1,
+        "rgb": 12715254
+      }
+    },
+    {
+      "query": "path:\"Базы данных\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4154877
+      }
+    },
+    {
+      "query": "path:\"Математика/Математический анализ\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10107964
+      }
+    },
+    {
+      "query": "path:\"Математика/Дискретная математика\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3978380
+      }
+    },
+    {
+      "query": "path:\"Математика/Математическая логика\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6162062
+      }
+    },
+    {
+      "query": "path:\"Алгоритмы и структуры данных\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3722806
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.44215176715177,
+  "lineSizeMultiplier": 1.279158004158,
+  "collapse-forces": false,
+  "centerStrength": 0.327962577962578,
+  "repelStrength": 13.960498960499,
+  "linkStrength": 1,
+  "linkDistance": 202,
+  "scale": 0.1234320084009717,
+  "close": true
+}

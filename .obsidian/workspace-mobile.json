@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "fc8ba3238167d4f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "341e3ec78e6fd3f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32060902a41983f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Математика/Линейная алгебра/Теорема о базисном миноре.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Теорема о базисном миноре"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a7a31964b0517ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fdae163819af8cc8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "2edcb532ec4bd9b4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ee2d0a04b4cef922",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "31d62a62ccede798",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0896670ab31f2aa4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "715a1eed4fd9a558",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8bcb9a7e960b0bb7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a59c9aaffb525270",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32060902a41983f9",
+  "lastOpenFiles": [
+    "Математика/Линейная алгебра/Формула Грассмана.md",
+    "Математика/Линейная алгебра/Теорема об разложении пространства в прямую сумму.md",
+    "Математика/Линейная алгебра/Операции над подпространствами.md",
+    "Математика/Линейная алгебра/Теорема об эквивалентных свойствах прямой суммы.md",
+    "Математика/Линейная алгебра/Теорема об эквивалентности способов заданий линейных подпространств.md",
+    "Математика/Линейная алгебра/Без названия.md",
+    "Математика/Линейная алгебра/Линейные подпространства.md",
+    "Математика/Линейная алгебра/Базис и матрица перехода к новому базису.md",
+    "Математика/Линейная алгебра/Аксиоматика линейного пространства.md",
+    "Математика/Линейная алгебра/Теорема Кронекера-Капелли.md",
+    "Математика/Линейная алгебра/Теорема Фредгольма.md",
+    "Математика/Линейная алгебра/Теорема о ранге матриц.md",
+    "Математика/Линейная алгебра/Теорема о базисном миноре.md",
+    "Математика/Линейная алгебра/Теорема о единственности решения НСЛУ.md",
+    "Математика/Линейная алгебра/Теорема о вычислении общего решения СЛУ.md",
+    "Линал - билеты.md",
+    "Математика/Дискретная математика/Теория групп/Аксиоматика.md",
+    "Архив МФТИ/Второй семестр/Математическая логика/Лекции Математическая Логика.pdf",
+    "Архив МФТИ/Первый семестр/Математический анализ.pdf",
+    "Базы данных/Pasted image 20250504124526.png",
+    "Базы данных/Pasted image 20250505150347.png",
+    "Базы данных/Pasted image 20250504124711.png",
+    "Базы данных/Pasted image 20250505154838.png",
+    "Базы данных/Pasted image 20250506123404.png",
+    "Базы данных/Pasted image 20250504130305.png",
+    "Математика/Математический анализ/Интеграл/Определённый интеграл.md",
+    "Математика/Дискретная математика/Теория групп/Перестановки и циклы.md",
+    "Архив МФТИ/Второй семестр/Линейная алгебра/Лекции Линейная Алгебра.pdf",
+    "websocket_api.md",
+    "README.md",
+    "Базы данных/Pasted image 20250506125415.png",
+    "Архив МФТИ/Первый семестр/Аналитическая геометрия.pdf",
+    "Базы данных/Базы данных конспект.md",
+    "Базы данных/Pasted image 20250504130922.png",
+    "Базы данных/Pasted image 20250505153631.png",
+    "Математика/Математический анализ/Ряд Тейлора/Таблица ряда Маклорена.md",
+    "Базы данных/Pasted image 20250506123534.png",
+    "Математика/Математический анализ/Множества/Ограниченные множества.md",
+    "Архив МФТИ/Второй семестр/Многомерный анализ/Лекции Многомерный Анализ.pdf",
+    "Математика/Дискретная математика/Теория групп/Подгруппы.md",
+    "Математика/Дискретная математика/Теория групп/Изоморфизм.md"
+  ]
+}
