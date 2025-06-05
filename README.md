@@ -60,14 +60,14 @@ cd Digital-garden
 #### Для обновления:
 
 ```bash
-git pull origin main
+git pull origin master
 ```
 #### Для сохранения изменений:
 
 ```bash
 git add .
 git commit -m "Обновление заметок"
-git push origin main
+git push origin master
 ```
 
 ---
