@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Математика/Линейная алгебра\"  ",
@@ -74,6 +74,6 @@
   "repelStrength": 11.995841995842,
   "linkStrength": 0.6995841995842,
   "linkDistance": 202,
-  "scale": 0.10857610060108776,
+  "scale": 0.11978113664252564,
   "close": true
 }
