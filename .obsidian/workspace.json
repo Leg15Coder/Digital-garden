@@ -61,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базы данных/Транзакции.md",
+                "file": "Java (MTS)/JAVA CORE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Транзакции"
+              "title": "Обратные ссылки для JAVA CORE"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базы данных/Транзакции.md",
+                "file": "Java (MTS)/JAVA CORE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Транзакции"
+              "title": "Исходящие ссылки из JAVA CORE"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базы данных/Транзакции.md",
+                "file": "Java (MTS)/JAVA CORE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Транзакции"
+              "title": "Структура JAVA CORE"
             }
           }
         ]
@@ -206,9 +206,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4c793c5e7a8fb435",
+  "active": "ac40f88b76e2b770",
   "lastOpenFiles": [
     "Java (MTS)/JAVA ADVANCED.md",
+    "Базы данных/Транзакции.md",
     "Java (MTS)/JAVA CORE.md",
     "Java (MTS)",
     "Алгоритмы и структуры данных/Графы/Потоки/Предпоток.md",
