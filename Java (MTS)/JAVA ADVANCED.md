@@ -394,10 +394,6 @@ java
 
 1️⃣ **Через наследование от `Thread`:**
 
-java
-
-КопироватьРедактировать
-
 `class MyThread extends Thread {     @Override     public void run() {         System.out.println("Поток работает");     } }  MyThread t = new MyThread(); t.start(); // запуск нового потока`
 
 ➡ Метод `run()` содержит код, который будет выполнен в новом потоке. Метод `start()` создаёт отдельный поток и вызывает `run()`.
@@ -405,10 +401,6 @@ java
 ---
 
 2️⃣ **Через реализацию интерфейса `Runnable`:**
-
-java
-
-КопироватьРедактировать
 
 `class MyRunnable implements Runnable {     @Override     public void run() {         System.out.println("Поток работает");     } }  Thread t = new Thread(new MyRunnable()); t.start();`
 
@@ -418,10 +410,6 @@ java
 
 3️⃣ **Через `Callable` + `Future`:**
 
-java
-
-КопироватьРедактировать
-
 `ExecutorService executor = Executors.newSingleThreadExecutor(); Future<Integer> future = executor.submit(() -> {     // код потока     return 42; }); Integer result = future.get(); // блокируется до получения результата executor.shutdown();`
 
 ➡ `Callable` позволяет возвращать результат и выбрасывать исключения.
@@ -429,10 +417,6 @@ java
 ---
 
 4️⃣ **Через лямбда-выражение (начиная с Java 8):**
-
-java
-
-КопироватьРедактировать
 
 `Thread t = new Thread(() -> System.out.println("Поток работает")); t.start();`
 
