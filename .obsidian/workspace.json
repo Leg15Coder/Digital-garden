@@ -11,10 +11,12 @@
             "id": "5317e78aff85920f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "pdf",
+              "state": {
+                "file": "Архив МФТИ/Второй семестр/Многомерный анализ/Многомерный анализ.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Многомерный анализ"
             }
           },
           {
@@ -116,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2054e1e05af3bddb",
