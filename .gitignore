@@ -1,4 +1,6 @@
-# Пользовательские
-.stfolder*/
+# Игнорировать папку .stfolder (любой регистр)
+.stfolder/
 .stfolder.*/
+
+# Игнорировать файл tmp.md
 tmp.md
