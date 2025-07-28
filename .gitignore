@@ -1,3 +1,4 @@
 # Пользовательские
-.stfolder*
-*tmp.md
+.stfolder*/
+.stfolder.*/
+tmp.md
