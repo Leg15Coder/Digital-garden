@@ -1,6 +1,6 @@
 # Игнорировать папку .stfolder (любой регистр)
 .stfolder/
-.stfolder.*/
+.stfolder*/
 
 # Игнорировать файл tmp.md
 tmp.md
