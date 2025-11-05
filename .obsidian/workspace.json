@@ -47,7 +47,8 @@
               "title": "Задачи из области информатики для ТВ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,14 +182,23 @@
               "icon": "lucide-ghost",
               "title": "git-view"
             }
+          },
+          {
+            "id": "7157079ad5b75e04",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,11 +211,27 @@
       "command-palette:Открыть палитру команд": false,
       "audio-recorder:Начать/остановить запись": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c61f535fc4219027",
+  "active": "7157079ad5b75e04",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Мои задачи/Теория вероятностей/Задачи из области информатики для ТВ.md",
     "Алгоритмы и структуры данных/Сортировки/Быстрая сортировка.md",
     "Базы данных/Жизненный цикл запроса внутри БД.md",
@@ -222,26 +248,11 @@
     "Алгоритмы и структуры данных/Деревья поиска и древовидные структуры/~syncthing~Дерево поиска.md.tmp",
     "Алгоритмы и структуры данных/Сортировки/Интроспективная сортировка.md",
     "Алгоритмы и структуры данных/Линейные структуры/Кольцевой буфер.md",
-    "Алгоритмы и структуры данных/Линейные структуры/Динамический массив.md",
-    "Алгоритмы и структуры данных/Сортировки/Простые сортировки.md",
-    "Алгоритмы и структуры данных/Сортировки/Radix сортировка (LSD).md",
-    "Алгоритмы и структуры данных/Сортировки/Сортировка подсчётом.md",
-    "Алгоритмы и структуры данных/Линейные структуры/Разреженная таблица.md",
-    "Алгоритмы и структуры данных/Задачи RMQ и RSQ.md",
-    "Алгоритмы и структуры данных/Сортировки/Heap sort.md",
-    "Алгоритмы и структуры данных/Деревья поиска и древовидные структуры/Куча.md",
-    "Алгоритмы и структуры данных/Сортировки/Порядковая статистика.md",
-    "Алгоритмы и структуры данных/Линейные структуры/Дек.md",
-    "Алгоритмы и структуры данных/Линейные структуры/Стек.md",
-    "Алгоритмы и структуры данных/Линейные структуры/Очередь.md",
-    "Алгоритмы и структуры данных/Сортировки/Сортировка слиянием.md",
     "Архив МФТИ/Третий семестр/Заметки на лету/Лекции/Матан.pdf",
     "Архив МФТИ/Третий семестр/Заметки на лету/Домашнее задание/Диффуры первое дз.pdf",
     "Архив МФТИ/Третий семестр/Заметки на лету/Лекции/АиСД.pdf",
     "Архив МФТИ/Третий семестр/Заметки на лету/Домашнее задание/Физика дз.pdf",
     "Архив МФТИ/Третий семестр/Заметки на лету/Семинары/Семинары Физика.pdf",
-    "Архив МФТИ/Третий семестр/Заметки на лету/Лабораторные работы/Физика лабы.pdf",
-    "Архив МФТИ/Третий семестр/Заметки на лету/Домашнее задание/Формалки первое дз.pdf",
     "Алгоритмы и структуры данных/img/Pasted image 20250728174148.png",
     "Алгоритмы и структуры данных/img/Pasted image 20250728163550.png",
     "Алгоритмы и структуры данных/img/extract-min-1.png",
