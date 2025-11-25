@@ -75,8 +75,7 @@
               "title": "Дискретные случайные величины"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "5aca4ebed43639f2",
@@ -274,8 +273,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3f1d62fdc21e7540",
+  "active": "c61f535fc4219027",
   "lastOpenFiles": [
+    "Java (MTS)/JAVA ADVANCED.md",
     "Java (MTS)/JAVA CORE.md",
     "Математика/Теория вероятностей/Дискретное вероятностное пространство/Математическое ожидание и дисперсия.md",
     "Математика/Математический анализ/Евклидова топология/Неравенство Коши-Буняковского-Шварца.md",
@@ -306,7 +306,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Мои задачи/Теория вероятностей",
