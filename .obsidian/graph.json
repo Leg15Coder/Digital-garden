@@ -69,18 +69,25 @@
         "a": 1,
         "rgb": 5665288
       }
+    },
+    {
+      "query": "path:\"Математика/Элементы дифференциальных уравнений\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12086809
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.44215176715177,
   "lineSizeMultiplier": 1.279158004158,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.27962577962578,
   "repelStrength": 15.031185031185,
   "linkStrength": 1,
   "linkDistance": 151,
-  "scale": 0.24424744217599514,
+  "scale": 0.08889194999082413,
   "close": true
 }
