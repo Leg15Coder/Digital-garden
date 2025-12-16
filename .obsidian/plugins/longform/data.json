@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Математика/Теория вероятностей/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-12-15T11:30:53.481Z",
+      "total": 0,
+      "drafts": {
+        "Математика/Теория вероятностей/Теория вероятностей 2025/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Математика/Теория вероятностей/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Математика/Теория вероятностей/ррр/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Математика/Теория вероятностей/Дискретное вероятностное пространство/Дискретное вероятностное пространство/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Математика/Теория вероятностей/Дискретное вероятностное пространство/Index.md": {
+          "total": 2918,
+          "scenes": {
+            "Понятие вероятностного пространства": 168,
+            "Условная вероятность": 521,
+            "Дискретные случайные величины": 414,
+            "Зависимость дискретных случайных величин": 165,
+            "Схема Бернулли": 161,
+            "Операции с событиями в ДВП": 189,
+            "Однородное вероятностное пространство": 57,
+            "Математическое ожидание и дисперсия": 719,
+            "Зависимость событий": 524
+          }
+        },
+        "Математика/Теория вероятностей/Теория вероятностей/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

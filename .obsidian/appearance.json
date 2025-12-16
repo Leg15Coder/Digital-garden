@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Encore"
+  "cssTheme": "Encore",
+  "baseFontSize": 16,
+  "textFontFamily": "Baskerville Old Face"
 }
