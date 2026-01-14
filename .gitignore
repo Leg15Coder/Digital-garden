@@ -2,8 +2,9 @@
 .stfolder/
 .stfolder*/
 
-# Игнорировать файл tmp.md
 tmp.md
 rules/
 copilot/
 *.base
+.idea
+.vscode

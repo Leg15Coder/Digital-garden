@@ -1,4 +1,4 @@
-- $DPATH \equiv PATH = \{ (G, s, t)\ |\ \text{в графе}\ G\ \text{есть путь из}\ s\ \text{в}\ t \}$
+- $DPATH \equiv PATH = \{ (G, s, t)\ |\ \text{в графе}\ G\ \text{есть путь из}\ s\ \text{в}\ t \} \in NLC$
 
 #### Доказательство
 

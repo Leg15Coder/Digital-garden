@@ -16,6 +16,6 @@ $NPCPASE = PSPACE$ $\Rightarrow$ $NPCPASEC = PSPACEC$. Опишем работу
 
 ## Перечень известных $PSPACEC$ языков
 
-1) $SUCCINPATH$ 
-2) $GG$
+1) [[SUCCINPATH]] 
+2) [[GG - обобщённая игра в города|GG]]
 3) $TQBF$
