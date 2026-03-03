@@ -76,6 +76,20 @@
         "a": 1,
         "rgb": 12086809
       }
+    },
+    {
+      "query": "path:\"Анализ данных\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5711210
+      }
+    },
+    {
+      "query": "path:Stotytelling  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -88,6 +102,6 @@
   "repelStrength": 15.031185031185,
   "linkStrength": 1,
   "linkDistance": 151,
-  "scale": 0.5253740177070576,
+  "scale": 0.06568816302825617,
   "close": true
 }

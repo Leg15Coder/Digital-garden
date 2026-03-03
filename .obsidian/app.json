@@ -2,9 +2,10 @@
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A4",
+    "pageSize": "A5",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 76
-  }
+  },
+  "showUnsupportedFiles": false
 }
