@@ -46,65 +46,9 @@
               "icon": "lucide-file",
               "title": "Системные промты"
             }
-          },
-          {
-            "id": "504b52fd212d3ab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tmp"
-            }
-          },
-          {
-            "id": "003404f813ebcd0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stotytelling/draft/Блок для изменения.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Блок для изменения"
-            }
-          },
-          {
-            "id": "7b7c8d96deae279a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stotytelling/draft/ЧЕрновик.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ЧЕрновик"
-            }
-          },
-          {
-            "id": "c931c0ae961472f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Математика/Математический анализ/Множества/Ортогональные системы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ортогональные системы"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,15 +229,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "504b52fd212d3ab3",
+  "active": "cac675542385d984",
   "lastOpenFiles": [
-    "daily_update.txt",
-    "Stotytelling/draft/Блок для изменения.md",
+    "Математика/Математический анализ/Множества/Ортогональные системы.md",
     "Stotytelling/draft/ЧЕрновик.md",
+    "Stotytelling/draft/Блок для изменения.md",
     "tmp.md",
+    "daily_update.txt",
     "Stotytelling/draft/Лолдик и шёпот из бездны.md",
     "Stotytelling/draft/Замечания по тексту.md",
-    "Математика/Математический анализ/Множества/Ортогональные системы.md",
     "Математика/Математический анализ/Множества/Геометрическая структура гильбертовых пространств.md",
     "Архив МФТИ/4 семестр/Гармонический анализ_260303_102856 (1).pdf",
     "Stotytelling/draft/Без названия.md",
@@ -323,7 +267,6 @@
     "Анализ данных/img/Pasted image 20260301212809.png",
     "Анализ данных/img/Pasted image 20260301194741.png",
     "Анализ данных/img/Pasted image 20260301194708.png",
-    "Анализ данных/Линейные алгоритмы",
     "Анализ данных/img/Pasted image 20260301154106.png",
     "Математика/Математическая логика/Логика первого порядка/Булевы функции.md",
     "Математика/Математическая логика/Теоретико-множественные операции.md",
