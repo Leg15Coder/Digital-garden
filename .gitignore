@@ -1,7 +1,6 @@
-# Игнорировать папку .stfolder (любой регистр)
 .stfolder/
 .stfolder*/
-
+private/
 tmp.md
 rules/
 copilot/
