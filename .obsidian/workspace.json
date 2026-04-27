@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,7 +341,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "155082caec4d5db5",
+  "active": "5ecaee9499b4f836",
   "lastOpenFiles": [
     "Анализ данных/Bias-Variance-Noise декомпозиция.md",
     "Анализ данных/Решающие деревья/Ансамбли деревьев.md",
