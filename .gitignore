@@ -8,3 +8,5 @@ copilot/
 .idea
 .vscode
 /Stotytelling/draft/
+*.ini
+*.tmp*
