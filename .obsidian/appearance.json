@@ -1,5 +1,8 @@
 {
   "cssTheme": "Encore",
   "baseFontSize": 16,
-  "textFontFamily": "Baskerville Old Face"
+  "textFontFamily": "Baskerville Old Face",
+  "enabledCssSnippets": [
+    "pdf-fit"
+  ]
 }
