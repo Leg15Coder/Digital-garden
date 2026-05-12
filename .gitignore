@@ -10,3 +10,4 @@ copilot/
 /Stotytelling/draft/
 *.ini
 *.tmp*
+.tmp*/
