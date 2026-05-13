@@ -5,9 +5,10 @@ tmp.md
 rules/
 copilot/
 *.base
-.idea
-.vscode
+.idea/
+.vscode/
 /Stotytelling/draft/
 *.ini
 *.tmp*
 .tmp*/
+.obsidian/
