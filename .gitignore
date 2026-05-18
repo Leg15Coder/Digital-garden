@@ -12,3 +12,4 @@ copilot/
 *.tmp*
 .tmp*/
 .obsidian/
+/safe vault/
