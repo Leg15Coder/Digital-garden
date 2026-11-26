@@ -1,1 +1,3 @@
-==Опр.== $PP$ *(Probabilistic Polynomial-time)* - класс языков *(обозначим язык $A$)*, для которых $\exists$ [[Вероятностная машина Тьюринга (ВМТ)|ПВМТ]] $V$, т.ч.$$\begin{cases} x \in A & \Longrightarrow & P(V(x) = 1) > \frac{1}{2}\\ x \not\in A & \Longrightarrow & P(V(x) = 1) < \frac{1}{2} \end{cases}$$
+==Опр.== $PP$ *(Probabilistic Polynomial-time)* - класс языков *(обозначим язык $A$)*, для которых $\exists$ [[Вероятностная машина Тьюринга (ВМТ)|ПВМТ]] $V$, т.ч.
+$$\begin{cases} x \in A & \Longrightarrow & P(V(x) = 1) > \frac{1}{2}\\ x \not\in A & \Longrightarrow & P(V(x) = 1) < \frac{1}{2} \end{cases}$$
+

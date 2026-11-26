@@ -1,7 +1,9 @@
-==Опр.== $BPP$ *(Bounded-error Probabilistic Polynomial)* - класс языков *(обозначим язык $A$)*, для которых $\exists$ [[Вероятностная машина Тьюринга (ВМТ)|ПВМТ]] $V$, т.ч.$$\begin{cases} x \in A & \Longrightarrow & P(V(x) = 1) \geq \frac{2}{3}\\ x \not\in A & \Longrightarrow & P(V(x) = 1) \leq \frac{1}{3} \end{cases}$$
+==Опр.== $BPP$ *(Bounded-error Probabilistic Polynomial)* - класс языков *(обозначим язык $A$)*, для которых $\exists$ [[Вероятностная машина Тьюринга (ВМТ)|ПВМТ]] $V$, т.ч.
+$$\begin{cases} x \in A & \Longrightarrow & P(V(x) = 1) \geq \frac{2}{3}\\ x \not\in A & \Longrightarrow & P(V(x) = 1) \leq \frac{1}{3} \end{cases}$$
 
 Пусть $\alpha, \beta : \mathbb{N}_0 \to [0; 1]$, тогда
-==Опр.== $BPP_{\alpha, \beta}$ - класс языков *(обозначим язык $A$)*, для которых $\exists$ [[Вероятностная машина Тьюринга (ВМТ)|ПВМТ]] $V$, т.ч.$$\begin{cases} x \in A & \Longrightarrow & P(V(x) = 1) \geq \beta(|x|)\\ x \not\in A & \Longrightarrow & P(V(x) = 1) \leq \alpha(|x|) \end{cases}$$
+==Опр.== $BPP_{\alpha, \beta}$ - класс языков *(обозначим язык $A$)*, для которых $\exists$ [[Вероятностная машина Тьюринга (ВМТ)|ПВМТ]] $V$, т.ч.
+$$\begin{cases} x \in A & \Longrightarrow & P(V(x) = 1) \geq \beta(|x|)\\ x \not\in A & \Longrightarrow & P(V(x) = 1) \leq \alpha(|x|) \end{cases}$$
 
 ==Опр.== $BPP^p$ - класс $BPP$, но в отличие от классического $BPP$ значение бита выбирается в схеме Бернулли не с параметром $\frac{1}{2}$, а с параметром $p$
 
@@ -9,7 +11,9 @@
 
 ## [[Амплификация]] $BPP$ и его разновидностей
 ### Амплификация $BPP$ с константой
-- $\forall a \in (0; \frac{1}{2})\ \forall b \in (\frac{1}{2}; 1)$ класс языков $BPP_{a, b}$, для которых $\exists$ ПВМТ $V$, т.ч.$$\begin{cases} x \in A & \Longrightarrow & P(V(x) = 1) \geq b\\ x \not\in A & \Longrightarrow & P(V(x) = 1) \leq a \end{cases}$$ равен $BPP$, то есть $BPP = BPP_{a, b}$
+- $\forall a \in (0; \frac{1}{2})\ \forall b \in (\frac{1}{2}; 1)$ класс языков $BPP_{a, b}$, для которых $\exists$ ПВМТ $V$, т.ч.
+$$\begin{cases} x \in A & \Longrightarrow & P(V(x) = 1) \geq b\\ x \not\in A & \Longrightarrow & P(V(x) = 1) \leq a \end{cases}$$
+равен $BPP$, то есть $BPP = BPP_{a, b}$
 
 #### Доказательство
 

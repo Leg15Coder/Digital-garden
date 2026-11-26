@@ -1,4 +1,4 @@
-==Опр.== **$NL\text{-}Hard = \{b \in \Sigma^*\ |\ \forall a \in NL\ :\ a \leq_l b\}$
+==Опр.== $NL\text{-}Hard = \{b \in \Sigma^*\ |\ \forall a \in NL\ :\ a \leq_l b\}$
 
 ==Опр.== $NL\text{-}Complete \equiv NLC = \{b \in NL\ |\ b \in NL\text{-}Hard\}$
 
